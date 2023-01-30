@@ -27,3 +27,16 @@ header nav a:last-child{
 }
 
 /* Header Slut */
+
+/* Annonce-Top */
+
+.annonce-top{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.annonce-top img{
+    height: 180px;
+    width: 800px;
+}
